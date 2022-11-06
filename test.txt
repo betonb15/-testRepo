@@ -7,3 +7,5 @@ To napisa³ Rafa³
 test 5
 
 test 6
+
+Moja linia
